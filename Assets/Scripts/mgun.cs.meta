@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 83499779db6ff87449e3b66ecc6a789f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fpr: {instanceID: 0}
+  - fpl: {instanceID: 0}
+  - bulletPrefab: {fileID: 2949253173073378912, guid: b32dbbf0446753f45835ee53183af968,
+      type: 3}
+  - mgun_flash: {fileID: 6602262017502244104, guid: 984bc96e027b7e145a0ff9cf882618a2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
